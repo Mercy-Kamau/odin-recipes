@@ -1,0 +1,26 @@
+*{
+    background-color: aliceblue;
+}
+body {
+    font-family: "Helvetica", Sans-Serif;
+}
+.link{ 
+    background-color: rgb(177, 231, 247);
+    border: 2px solid blue;
+    border-radius: 15px 50px 30px;
+    padding: 20px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    
+
+}
+.link :hover{
+   background-color: blueviolet; 
+}
+.link a:hover{
+    color: red;
+}
+h1{
+    position: center;
+}

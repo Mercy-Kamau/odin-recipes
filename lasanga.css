@@ -1,0 +1,59 @@
+*{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+body{
+    text-align: center;
+    font-weight: 100;
+}
+img{
+    height: auto;
+    width: 400;
+    position: static;
+}
+h1{
+    font-weight: bold;
+    font-size: large;
+}
+h4{
+    text-decoration: underline;
+    color: darkblue;
+
+}
+p{
+    color:deepskyblue
+}
+h5{
+    font-style: italic;
+    font-weight: bold;
+}
+
+ul{
+    text-align: center;
+    list-style: circle;
+    
+}
+ul li{
+    list-style-position: inside;
+    margin:10px;
+    line-height: 1.5;
+}
+.recipe p
+{
+    border-radius: 20px;
+    border-style: dotted;
+    height: 700;
+    width: auto;
+    border-color: blue;
+    padding-top: 0;
+}
+.recipe ol{
+    text-align: center;
+}
+.recipe ol li{
+    list-style-position: inside;
+    margin:10px;
+    line-height: 1.5;
+    color: black;
+}
